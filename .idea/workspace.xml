@@ -4,7 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0176a9e-7436-4d5b-9d08-2dc3d9358ed7" name="Changes" comment="" />
+    <list default="true" id="d0176a9e-7436-4d5b-9d08-2dc3d9358ed7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/controllers/ProductController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controllers/ProductListController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/BrandModel.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/BrandModel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/CartModel.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/CartModel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/CategoryModel.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/CategoryModel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/InvoiceModel.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/InvoiceModel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/InvoiceProductModel.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/InvoiceProductModel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/ProductDetailModel.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/ProductDetailModel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/ProductModel.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/ProductModel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/ProductSliderModel.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/ProductSliderModel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/ProfileModel.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/ProfileModel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/ReviewModel.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/ReviewModel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/UserModel.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/UserModel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/WishModel.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/WishModel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/api.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/api.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/ProductServices.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/ProductServices.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,26 +40,31 @@
       </list>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2ZKpDsiNPRUR9HN6t503Yxi2Jae" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\PhpStorm 2023.3\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -56,6 +81,9 @@
       <option name="presentableId" value="Default" />
       <updated>1702180514359</updated>
       <workItem from="1702180515700" duration="2323000" />
+      <workItem from="1702520540518" duration="6949000" />
+      <workItem from="1702535624124" duration="2000" />
+      <workItem from="1702535652020" duration="7019000" />
     </task>
     <servers />
   </component>
